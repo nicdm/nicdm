@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nicdm/nicdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nicolas.
-I’m currently completing my associate degree in Systems and Network Administration. I have a strong interest in cloud technologies and open-source software, particularly Linux.
+- currently completing my associate degree in Systems and Network Administration.
+- I have a strong interest in cloud technologies and open-source software, particularly Linux.
