@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nicolas
+- I'm Currently finishing up my studies in an  associate degree System / Network admin.
+- I have a big interest in Cloud and Opensource (Linux)
