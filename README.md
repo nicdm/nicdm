@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nicolas
-- I'm Currently finishing up my studies in an  associate degree System / Network admin.
-- I have a big interest in Cloud and Opensource (Linux)
+My name is Nicolas.
+I’m currently completing my associate degree in Systems and Network Administration. I have a strong interest in cloud technologies and open-source software, particularly Linux.
