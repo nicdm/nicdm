@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- currently completing my associate degree in Systems and Network Administration.
+- Currently completing my associate degree in Systems and Network Administration.
 - I have a strong interest in cloud technologies and open-source software, particularly Linux.
+
+[![Get it on X](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter.svg)](https://x.com/nicdm)
